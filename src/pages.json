@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "home.svg",
+    "url": "https://github.com/"
+  },
+  {
+    "title": "Notifications",
+    "icon": "notification.svg",
+    "url": "https://github.com/notifications"
+  },
+  {
+    "title": "Issues",
+    "icon": "issue.svg",
+    "url": "https://github.com/issues",
+    "key": "issues",
+    "accessory": {
+      "text": "(tab) to search"
+    }
+  },
+  {
+    "title": "Pull requests",
+    "icon": "pull-request.svg",
+    "url": "https://github.com/pulls",
+    "key": "pulls",
+    "accessory": {
+      "text": "(tab) to search"
+    }
+  },
+  {
+    "title": "Discussions",
+    "icon": "discussions.svg",
+    "url": "https://github.com/discussions"
+  }
+]

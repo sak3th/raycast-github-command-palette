@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Issues",
+    "subtitle": "Tab to list",
+    "icon": "issue.svg",
+    "endpoint": "issues"
+  },
+  {
+    "title": "Pull Requests",
+    "subtitle": "Tab to list",
+    "icon": "pull-request.svg",
+    "endpoint": "pulls"
+  },
+  {
+    "title": "Branches",
+    "icon": "branch.svg",
+    "endpoint": "branches"
+  },
+  {
+    "title": "Discussions",
+    "icon": "discussions.svg",
+    "endpoint": "discussions"
+  },
+  {
+    "title": "Releases",
+    "icon": "rocket.svg",
+    "endpoint": "releases"
+  },
+  {
+    "title": "Actions",
+    "icon": "action.svg",
+    "endpoint": "actions"
+  },
+  {
+    "title": "Projects",
+    "icon": "projects.svg",
+    "endpoint": "projects"
+  },
+  {
+    "title": "Security",
+    "icon": "security.svg",
+    "endpoint": "security"
+  },
+  {
+    "title": "Settings",
+    "icon": "settings.svg",
+    "endpoint": "settings"
+  }
+]
